@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rusira Jayatilake, my username - @RusiraJayatilake
 - 👀 I’m interested in Computer Science, Engineering and Full Stack Web Development
 - 🌱 I’m currently a university student majoring computer science
-- 💞️ I’m looking to collaborate with with projects
+- 💞️ I’m looking to collaborate with other computer programming projects
 - 📫 You can contact me through my email - rusirajayatilake96@gmail.com
 
 <!---
