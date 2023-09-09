@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusirajayatilake&label=Profile%20views&color=0e75b6&style=flat" alt="rusirajayatilake" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Android**
 
-- 💬 Ask me about **Android, Django, Flask, MERN, MySQL, SQLite3**
+- 💬 Ask me about **Django, Flask, MERN Stack, MySQL, SQLite3**
 
 - 📫 How to reach me **rusirajayatilake96@gmail.com**
 
