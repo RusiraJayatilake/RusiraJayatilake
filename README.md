@@ -22,4 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rusirajayatilake&show_icons=true&locale=en" alt="rusirajayatilake" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusirajayatilake&" alt="rusirajayatilake" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusirajayatilake)](https://github.com/anuraghazra/github-readme-stats)
+
