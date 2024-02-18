@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://user-images.githubusercontent.com)
 <h1 align="center">Hi 👋, I'm Rusira Jayatilake</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 <img alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
