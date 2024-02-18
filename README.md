@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on **a Travel App**
 
-- 👯 I’m looking to collaborate on **Backend Development Projects | Mobile | Web | Security**
+- 👯 I’m looking to collaborate on **Backend Development Projects | Mobile |
+- | Web | Security**
 
 - 💬 Ask me about **Android, Django, Flask, MERN, MySQL, SQLite3**
 
