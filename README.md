@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusirajayatilake&label=Profile%20views&color=0e75b6&style=flat" alt="rusirajayatilake" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rusirajayatilake" alt="rusirajayatilake" /></a> </p>
-
 - 🔭 I’m currently working on **a Travel App**
 
 - 👯 I’m looking to collaborate on **Backend Development Projects | Mobile | Web | Security**
