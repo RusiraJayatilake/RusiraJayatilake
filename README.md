@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science Student</h3>
 <p align="right"><img alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rusirajayatilake&label=Profile%20views&color=0e75b6&style=flat" alt="rusirajayatilake" /> </p>
+<img src="https://komarev.com/ghpvc/?username=rusirajayatilake&label=Profile%20views&color=0e75b6&style=flat" alt="rusirajayatilake" />
 
 - 🔭 I’m currently working on **a Travel App**
 
