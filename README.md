@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusirajayatilake&label=Profile%20views&color=0e75b6&style=flat" alt="rusirajayatilake" /> </p>
 
+<img alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+
 - 🔭 I’m currently working on **a Travel App**
 
 - 👯 I’m looking to collaborate on **Backend Development Projects | Mobile | Web | Security**
