@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusirajayatilake&label=Profile%20views&color=0e75b6&style=flat" alt="rusirajayatilake" /> </p>
 
-- 🔭 I’m currently working on **a Travel App**
+- 🔭 I’m currently working on **building projects**
 
 - 👯 I’m looking to collaborate on **Backend Development Projects**
 
