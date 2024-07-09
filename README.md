@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **building projects**
 
-- 👯 I’m looking to collaborate on **Backend Development Projects**
+- 👯 I’m looking to collaborate on **Full-Stack Development Projects**
 
 - 💬 Ask me about **Android, Django, Flask, MERN, MySQL, SQLite3**
 
