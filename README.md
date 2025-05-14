@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rusira Jayatilake</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Computer Science Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusirajayatilake&label=Profile%20views&color=0e75b6&style=flat" alt="rusirajayatilake" /> </p>
@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Development Projects**
 
-- 💬 Ask me about **Android, Django, Flask, MERN, MySQL, SQLite3**
+- 💬 Ask me about **React, ASP.NET Core, Flask, C#, Python**
 
 - 📫 How to reach me **rusirajayatilake96@gmail.com**
 
