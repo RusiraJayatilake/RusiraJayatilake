@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
-- 📝 My Weekly Newsletter [https://rusirajayatilake.substack.com/](https://rusirajayatilake.substack.com/)
+- 📝 My Weekly Newsletter [ByteWallet](https://rusirajayatilake.substack.com/)
 
 - 💬 Ask me about **React, ASP.NET Core, Flask, Python, C#, JavaScript**
 
